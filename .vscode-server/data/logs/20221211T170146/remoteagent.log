@@ -1,0 +1,270 @@
+[2022-12-11 17:01:46.778] [remoteagent] [info] Extension host agent started.
+[2022-12-11 17:01:46.902] [remoteagent] [info] [127.0.0.1][ae5e81ce][ManagementConnection] New connection established.
+[2022-12-11 17:01:47.000] [remoteagent] [info] [127.0.0.1][5249df79][ExtensionHostConnection] New connection established.
+[2022-12-11 17:01:47.006] [remoteagent] [info] [127.0.0.1][5249df79][ExtensionHostConnection] <244959> Launched Extension Host Process.
+[2022-12-11 17:01:50.184] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-12-11 17:01:50.292] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-12-11 17:01:53.274] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/csmajs/mchen356/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.13.7-linux-x64
+[2022-12-11 17:01:54.882] [remoteagent] [info] Extracted extension to /home/csmajs/mchen356/.vscode-server/extensions/.65cbffab-3cb7-4ca3-909f-fc7376f95c1f: ms-vscode.cpptools
+[2022-12-11 17:01:54.890] [remoteagent] [info] Renamed to /home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.13.7-linux-x64
+[2022-12-11 17:01:54.903] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-12-11 17:01:54.908] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools
+[2022-12-11 18:10:04.279] [remoteagent] [error] Error: read ECONNRESET
+    at TCP.onStreamRead (node:internal/stream_base_commons:217:20)
+[2022-12-11 18:10:04.280] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.280] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.281] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.281] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.281] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.281] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.281] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.281] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.282] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.282] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.282] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.282] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.283] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.283] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.283] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.283] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.283] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.283] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.284] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.284] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.284] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.284] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.284] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.284] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.284] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.285] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.285] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.285] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.285] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.285] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.285] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.285] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.286] [remoteagent] [error] Error [ERR_STREAM_DESTROYED]: Cannot call write after a stream was destroyed
+    at new NodeError (node:internal/errors:371:5)
+    at errorBuffer (node:internal/streams/writable:517:14)
+    at afterWrite (node:internal/streams/writable:501:5)
+    at onwrite (node:internal/streams/writable:477:7)
+    at WriteWrap.onWriteComplete [as oncomplete] (node:internal/stream_base_commons:87:12)
+[2022-12-11 18:10:04.287] [remoteagent] [info] [127.0.0.1][ae5e81ce][ManagementConnection] The client has disconnected, will wait for reconnection 3h before disposing...
+[2022-12-11 21:10:13.750] [remoteagent] [info] [127.0.0.1][ae5e81ce][ManagementConnection] The reconnection grace time of 3h has expired, so the connection will be disposed.
+[2022-12-11 21:10:14.736] [remoteagent] [info] [127.0.0.1][5249df79][ExtensionHostConnection] <244959> Extension Host Process exited with code: 0, signal: null.
+[2022-12-11 21:10:14.736] [remoteagent] [info] Last EH closed, waiting before shutting down
+[2022-12-11 21:15:14.737] [remoteagent] [info] Last EH closed, shutting down

@@ -1,0 +1,17 @@
+#ifndef ELF
+#define ELF
+
+#include 
+#include "Character.h"
+
+using namespace std;
+
+class Elf : public Character {
+    public: 
+        Elf(const string &name, double health, double attackStrength, string family);   
+        void attack(Character &) ;
+    private: 
+        string family ;  
+};
+
+#endif

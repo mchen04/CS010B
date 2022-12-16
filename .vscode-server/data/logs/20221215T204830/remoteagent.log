@@ -1,0 +1,11 @@
+[2022-12-15 20:48:30.758] [remoteagent] [info] Extension host agent started.
+[2022-12-15 20:48:30.963] [remoteagent] [info] [127.0.0.1][1796ebab][ManagementConnection] New connection established.
+[2022-12-15 20:48:31.012] [remoteagent] [info] [127.0.0.1][696d0c35][ExtensionHostConnection] New connection established.
+[2022-12-15 20:48:31.018] [remoteagent] [info] [127.0.0.1][696d0c35][ExtensionHostConnection] <1001350> Launched Extension Host Process.
+[2022-12-15 20:48:33.718] [remoteagent] [info] Getting Manifest... ms-vscode.cpptools
+[2022-12-15 20:48:33.817] [remoteagent] [info] Installing extension: ms-vscode.cpptools
+[2022-12-15 20:48:37.375] [remoteagent] [info] Downloaded extension: ms-vscode.cpptools /home/csmajs/mchen356/.vscode-server/data/CachedExtensionVSIXs/ms-vscode.cpptools-1.13.8-linux-x64
+[2022-12-15 20:48:39.092] [remoteagent] [info] Extracted extension to /home/csmajs/mchen356/.vscode-server/extensions/.77b98759-6708-44c1-89c2-6aba80849c92: ms-vscode.cpptools
+[2022-12-15 20:48:39.100] [remoteagent] [info] Renamed to /home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.13.8-linux-x64
+[2022-12-15 20:48:39.111] [remoteagent] [info] Extracting completed. ms-vscode.cpptools
+[2022-12-15 20:48:39.116] [remoteagent] [info] Extension installed successfully: ms-vscode.cpptools

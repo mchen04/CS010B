@@ -1,0 +1,35 @@
+[2022-12-02 23:35:54.119] [exthost] [info] Extension host with pid 1089273 started
+[2022-12-02 23:35:54.127] [exthost] [info] Lock '/home/csmajs/mchen356/.vscode-server/data/User/workspaceStorage/e8a7f1f18b1e28f79f15c1ce93bd32b3/vscode.lock': Lock acquired.
+[2022-12-02 23:35:54.403] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode.cpptools, startup: false, activationEvent: 'onLanguage:cpp'
+[2022-12-02 23:35:54.538] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-12-02 23:35:54.541] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-12-02 23:35:54.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-12-02 23:35:54.626] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-12-02 23:35:54.692] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-12-02 23:35:54.779] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-02 23:35:54.794] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-12-02 23:35:54.797] [exthost] [info] Eager extensions activated
+[2022-12-03 05:23:49.669] [exthost] [info] Extension host terminating: renderer disconnected for too long (1)
+[2022-12-03 05:23:49.670] [exthost] [info] Lock '/home/csmajs/mchen356/.vscode-server/data/User/workspaceStorage/e8a7f1f18b1e28f79f15c1ce93bd32b3/vscode.lock': Marking the lockfile as scheduled to be released in 6000 ms.
+[2022-12-03 05:23:49.699] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2022-12-03 05:23:49.700] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:53227:27)
+	at Object.dispose (/data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56788:35)
+	at /data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56235:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-12-03 05:23:49.700] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2022-12-03 05:23:49.700] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:53227:27)
+	at Object.dispose (/data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56788:35)
+	at /data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56235:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-12-03 05:23:49.700] [exthost] [error] [ms-vscode.cpptools] provider FAILED
+[2022-12-03 05:23:49.700] [exthost] [error] Error: Pending response rejected since connection got disposed
+	at Object.dispose (/data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:53227:27)
+	at Object.dispose (/data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56788:35)
+	at /data/home/csmajs/mchen356/.vscode-server/extensions/ms-vscode.cpptools-1.12.4-linux-x64/dist/main.js:56235:28
+	at runMicrotasks (<anonymous>)
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+[2022-12-03 05:23:49.700] [exthost] [info] Extension host with pid 1089273 exiting with code 0
