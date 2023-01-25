@@ -1,17 +1,21 @@
-# Reading-UCR_Catalog-PDF
+# CS 010B Introduction to Computer Science
 
-PDF Search
-This script allows you to search for keywords in the UCR Catalog PDF document and returns the text after the keyword, along with the page number it was found on. This script uses the PyPDF2 library to read the PDF document.
+This repository contains the work completed for CS 010B Introduction to Computer Science, a course for science, mathematics, and engineering majors. The course covers structured and object-oriented programming in C++, emphasizing good programming principles and the development of substantial programs.
 
-Usage
-Install the PyPDF2 library by running pip install PyPDF2
-Run the script using python main.py
-Enter the keyword you want to search for when prompted.
-The script will return the text following the keyword and the page number it was found on.
-To exit the script, enter "quit" when prompted for a keyword.
+Course Description
+CS 010B is a 4-unit course that meets 4 lecture hours, 3 laboratory hours, and 1 hour of individual study per week. The course covers topics such as recursion, pointers, linked lists, abstract data types, and libraries, as well as software engineering principles.
 
-Note
-The script will display the output in the format "ID, Course Name, Credit Amount, General Info, Prerequisites, Page#"
+Prerequisites
+To take this course, students must have completed CS 010A with a grade of C- or better and have familiarity with the C or C++ programming languages.
 
-Limitations
-Currently, this script can only search for one keyword at a time and cannot search for multiple keywords at once. Additionally, it is limited to the UCR Catalog.
+Repository Contents
+This repository contains all of the work completed for this course, including:
+
+Programming assignments: small to medium-sized programming tasks that apply the concepts covered in class.
+Laboratory assignments: hands-on activities to reinforce programming concepts.
+Final project: a substantial programming project that demonstrates understanding of the course material.
+Contributions
+All the work in this repository is original work done by me.
+
+Disclaimer
+Please note that the work in this repository should not be used as a substitute for taking the course or as a way to cheat on assignments. The purpose of this repository is to provide a portfolio of the work completed and to demonstrate understanding of the course material.
