@@ -1,2 +1,4 @@
 # CS010B
-Used to work between multiple devices using Github
+
+CS 010B Introduction to Computer
+Science For Science, Mathematics, and Engineering I
